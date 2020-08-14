@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "excalidraw/excalidraw",
+    "stargazers_count": 10578,
+    "open_issues_count": 245,
+    "forks_count": 726
+  },
+  {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 185,
     "open_issues_count": 28,
@@ -7,8 +13,8 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 7114,
-    "open_issues_count": 100,
+    "stargazers_count": 7116,
+    "open_issues_count": 101,
     "forks_count": 913
   }
 ]
