@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "microsoft/TypeScript",
+    "stargazers_count": 63090,
+    "open_issues_count": 4581,
+    "forks_count": 8416
+  },
+  {
     "full_name": "nodejs/node",
     "stargazers_count": 72308,
     "open_issues_count": 1122,
