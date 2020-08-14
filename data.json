@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "mattermost/mattermost-server",
+    "stargazers_count": 18745,
+    "open_issues_count": 480,
+    "forks_count": 4319
+  },
+  {
     "full_name": "microsoft/TypeScript",
     "stargazers_count": 63090,
     "open_issues_count": 4581,
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 7121,
+    "stargazers_count": 7122,
     "open_issues_count": 101,
     "forks_count": 914
   }
