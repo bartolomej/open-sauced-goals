@@ -1,44 +1,44 @@
 [
   {
     "full_name": "withspectrum/spectrum",
-    "stargazers_count": 9527,
+    "stargazers_count": 9531,
     "open_issues_count": 316,
-    "forks_count": 1018
+    "forks_count": 1020
   },
   {
     "full_name": "mattermost/mattermost-server",
-    "stargazers_count": 19589,
-    "open_issues_count": 656,
-    "forks_count": 4719
+    "stargazers_count": 19594,
+    "open_issues_count": 658,
+    "forks_count": 4723
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 67349,
-    "open_issues_count": 4950,
-    "forks_count": 8934
+    "stargazers_count": 67379,
+    "open_issues_count": 4954,
+    "forks_count": 8938
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 75683,
-    "open_issues_count": 1197,
-    "forks_count": 18890
+    "stargazers_count": 75722,
+    "open_issues_count": 1203,
+    "forks_count": 18900
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 14007,
-    "open_issues_count": 214,
-    "forks_count": 957
+    "stargazers_count": 14049,
+    "open_issues_count": 216,
+    "forks_count": 960
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 327,
-    "open_issues_count": 30,
+    "open_issues_count": 24,
     "forks_count": 93
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 16303,
-    "open_issues_count": 102,
-    "forks_count": 3275
+    "stargazers_count": 16412,
+    "open_issues_count": 109,
+    "forks_count": 3309
   }
 ]
